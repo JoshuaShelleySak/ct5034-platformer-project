@@ -1,3 +1,7 @@
+#######################################
+# CT5034 GITIGNORE FILE FOR UE4
+#######################################
+
 # Visual Studio 2015 user specific files
 .vs/
 
@@ -14,7 +18,7 @@
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
+# *.dll <--- Think we need this
 
 # Fortran module files
 *.mod
@@ -23,7 +27,7 @@
 *.lai
 *.la
 *.a
-*.lib
+# *.lib <--- Think we need this
 
 # Executables
 *.exe
@@ -47,7 +51,7 @@ SourceArt/**/*.tga
 
 # Binary Files
 Binaries/*
-Plugins/*/Binaries/*
+# Plugins/*/Binaries/* <--- Think we need this
 
 # Builds
 Build/*
