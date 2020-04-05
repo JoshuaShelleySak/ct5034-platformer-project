@@ -15,6 +15,12 @@
 			"LoadingPhase": "PreLoadingScreen"
 		}
 	],
+	"Plugins": [
+		{
+			"Name": "FMODStudio",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
 		"MacNoEditor",
 		"WindowsNoEditor"
