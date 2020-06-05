@@ -25,5 +25,24 @@ Slide
 Bump into something
 Platform moving sound
 
+Robot Chatter:
+
+Jump
+Land
+Look around
+Loose
+Win
+Pain
+Run
+Impact
+
+
+Ambience: 
+
+Siren alarm loop
+Wind sounds: 
+City ground sounds: quiet wind, traffic beep, rustle.
+Platformer music: 
+
 
 

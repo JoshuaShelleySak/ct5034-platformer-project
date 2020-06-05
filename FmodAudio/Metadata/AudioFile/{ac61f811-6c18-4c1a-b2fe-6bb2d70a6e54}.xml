@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{ac61f811-6c18-4c1a-b2fe-6bb2d70a6e54}">
+        <property name="assetPath">
+            <value>Robot_Hurt_02.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>1.3583541666666668</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{aafaec74-b55e-40c5-9703-e7197fa328dd}</destination>
+        </relationship>
+    </object>
+</objects>

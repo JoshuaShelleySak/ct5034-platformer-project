@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{408ac4b5-f54a-4d3e-9a7b-57c62df65443}">
+        <property name="assetPath">
+            <value>Wheel sqeak.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>5.5142176870748303</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{aafaec74-b55e-40c5-9703-e7197fa328dd}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{b274f67c-1cd4-4688-ba33-f131ec3a9250}">
+        <property name="assetPath">
+            <value>Robot_Chatter_Short_06.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>1.0216875000000001</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{aafaec74-b55e-40c5-9703-e7197fa328dd}</destination>
+        </relationship>
+    </object>
+</objects>
