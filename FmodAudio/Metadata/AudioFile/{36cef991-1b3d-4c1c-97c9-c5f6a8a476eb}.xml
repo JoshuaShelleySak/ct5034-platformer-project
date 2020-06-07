@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{36cef991-1b3d-4c1c-97c9-c5f6a8a476eb}">
+        <property name="assetPath">
+            <value>52906__vlammenos__police-siren.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>22.0499992</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>31.680453514739231</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{aafaec74-b55e-40c5-9703-e7197fa328dd}</destination>
+        </relationship>
+    </object>
+</objects>
