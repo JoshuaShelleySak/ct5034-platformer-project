@@ -1,0 +1,97 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Slide_data" version="1.3.0" audacityversion="2.3.0" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="699.5225243928" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="336023__adamgryu__rocks" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.18012500" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="120425">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808e44.au" len="120425" min="-0.911085" max="0.901793" rms="0.086116"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="336023__adamgryu__rocks" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.18012500" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="120425">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808761.au" len="120425" min="-0.895236" max="0.948622" rms="0.08339"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="25585__daveincamas__20061111bucket2" channel="0" linked="1" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="1.22510417" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="218">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d3b.au" len="218" min="-0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="58805">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808c0e.au" len="58805" min="-0.508133" max="0.520453" rms="0.109579"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="25585__daveincamas__20061111bucket2" channel="1" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="1.22510417" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="218">
+				<waveblock start="0">
+					<simpleblockfile filename="e080885f.au" len="218" min="-0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="58805">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808eae.au" len="58805" min="-0.499196" max="0.509932" rms="0.107761"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="25585__daveincamas__20061111bucket2" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="1.50632758" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="218">
+				<waveblock start="0">
+					<simpleblockfile filename="e08081c8.au" len="218" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="72304">
+				<waveblock start="0">
+					<simpleblockfile filename="e08087af.au" len="72304" min="-0.947403" max="1.0" rms="0.231425"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="25585__daveincamas__20061111bucket2" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="1.50632758" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="218">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808f39.au" len="218" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="72304">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808304.au" len="72304" min="-0.968186" max="0.969537" rms="0.219723"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
